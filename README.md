@@ -1,1 +1,2 @@
 # pharmacy-management-system
+A Pharmacy Management System (PMS) is a software solution designed to streamline and automate the processes within a pharmacy. It encompasses various functionalities to manage the operational and administrative aspects, such as inventory control, prescription management, sales transactions, reporting, and customer management. The system aims to enhance efficiency, reduce human errors, and improve the overall customer experience.
